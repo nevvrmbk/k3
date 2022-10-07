@@ -1,0 +1,8 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "short_name": "K3",
+    "start_url": "/",
+    "display": "standalone",
+    "background": "#000",
+    "description": "SvelteKit project"
+}
